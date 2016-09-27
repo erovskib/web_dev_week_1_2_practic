@@ -11,3 +11,8 @@ This is a comparison of a easyjet website **this is a sting comment**
 <h1> This is bad </h1>
 
 ```
+## This is how we include and image 
+![This is an image](Koala.jpeg)
+>> <sub> this is from the desktop </sub>
+
+```
