@@ -16,3 +16,10 @@ This is a comparison of a easyjet website **this is a sting comment**
 >> <sub> this is from the desktop </sub>
 
 ```
+
+``` 
+## Responsive web sites 
+![Easy jet web site](easyjetmobile.jpg)
+>> <sub> from the desktop </sub>
+
+```
