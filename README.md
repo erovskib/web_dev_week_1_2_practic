@@ -19,7 +19,7 @@ This is a comparison of a easyjet website **this is a sting comment**
 
 ``` 
 ## Responsive web sites 
-![Easy jet web site](easyjetmobile.jpg)
+![Easy jet web site](easyjetmobile.JPG)
 >> <sub> from the desktop </sub>
 
 ```
