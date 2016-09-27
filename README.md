@@ -23,3 +23,9 @@ This is a comparison of a easyjet website **this is a sting comment**
 >> <sub> from the desktop </sub>
 
 ```
+```
+## Responsive web sites 
+![Easy jet web site](easyjetweb.JPG)
+>> <sub> from the desktop </sub>
+
+```
