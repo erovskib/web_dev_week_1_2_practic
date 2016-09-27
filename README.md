@@ -3,7 +3,7 @@ This is a comparison of a easyjet website **this is a sting comment**
 
 [Easy Jet website](http://www.easyjet.com/en)
 
-***html
+```html
 
 <html>
 
