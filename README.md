@@ -29,3 +29,15 @@ This is a comparison of a easyjet website **this is a sting comment**
 >> <sub> This is the web version of the Easy jet web site </sub>
 
 ```
+```
+## Responsive web sites 
+![Easy jet web site](sonymobile.JPG)
+>> <sub> This is the mobile version of the Sony web site </sub>
+
+```
+```
+## Responsive web sites 
+![Easy jet web site](sonyweb.JPG)
+>> <sub> This is the web version of the Sony web site </sub>
+
+```
