@@ -1,7 +1,7 @@
 # A comparison between responsive designs
 This is a comparison of a easyjet website **this is a sting comment**
 
-[Easy Jet website](http://www.easyjet.com/en)
+[Easy Jet website](http://www.easyjet.com/en)>> I am a note
 
 ```html
 
@@ -9,4 +9,4 @@ This is a comparison of a easyjet website **this is a sting comment**
 
 <h1> This is bad </h1>
 
-***
+```
