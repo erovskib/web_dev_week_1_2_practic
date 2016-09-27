@@ -18,6 +18,8 @@ This is a comparison of a easyjet website **this is a sting comment**
 ```
 
 ``` 
+
+- Here it can be seen how most of the images and some of the icons disappear after the breakpoint.
 ## Responsive web sites 
 ![Easy jet web site](easyjetmobile.JPG)
 >> <sub> This is the mobile responsive version of the Easy jet web site </sub>
@@ -30,6 +32,8 @@ This is a comparison of a easyjet website **this is a sting comment**
 
 ```
 ```
+
+- Here it can be seen how most of the images and some of the icons disappear after the breakpoint.
 ## Responsive web sites 
 ![Easy jet web site](sonymobile.JPG)
 >> <sub> This is the mobile version of the Sony web site </sub>
@@ -42,6 +46,8 @@ This is a comparison of a easyjet website **this is a sting comment**
 
 ```
 ```
+
+- Here it can be seen how most of the images and some of the icons disappear after the breakpoint.
 ## Responsive web sites 
 ![Easy jet web site](solentmobile.JPG)
 >> <sub> This is the mobile version of the Solent online learning site </sub>
