@@ -20,12 +20,12 @@ This is a comparison of a easyjet website **this is a sting comment**
 ``` 
 ## Responsive web sites 
 ![Easy jet web site](easyjetmobile.JPG)
->> <sub> from the desktop </sub>
+>> <sub> This is the mobile responsive version of the Easy jet web site </sub>
 
 ```
 ```
 ## Responsive web sites 
 ![Easy jet web site](easyjetweb.JPG)
->> <sub> from the desktop </sub>
+>> <sub> This is the web version of the Easy jet web site </sub>
 
 ```
